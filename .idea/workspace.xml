@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7388425-21a6-4666-b612-c1dc17f4a7da" name="Default" comment="" />
+    <list default="true" id="d7388425-21a6-4666-b612-c1dc17f4a7da" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/index.php" afterPath="$PROJECT_DIR$/first/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" afterPath="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="m.spherehairsalon.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,61 +30,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-47.73077" vertical-offset="2839" max-vertical-offset="9316">
-              <caret line="240" column="121" selection-start-line="240" selection-start-column="121" selection-end-line="240" selection-end-column="121" />
-              <folding />
+            <state vertical-scroll-proportion="0.425" vertical-offset="1615" max-vertical-offset="9316">
+              <caret line="117" column="142" selection-start-line="117" selection-start-column="142" selection-end-line="117" selection-end-column="142" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.mobile-1.4.5.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jquery.mobile-1.4.5.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3912543" vertical-offset="19125" max-vertical-offset="80750">
-              <caret line="1145" column="3" selection-start-line="1145" selection-start-column="3" selection-end-line="1145" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style-mobile.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first/css/style-mobile.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3111" max-vertical-offset="4386">
-              <caret line="210" column="9" selection-start-line="210" selection-start-column="9" selection-end-line="210" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slicknav.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first/css/slicknav.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1989">
-              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first/mail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1513">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first/settings.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="221">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="18411" max-vertical-offset="80784">
+              <caret line="1104" column="33" selection-start-line="1104" selection-start-column="28" selection-end-line="1104" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -92,11 +59,11 @@
       <list>
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/settings.php" />
-        <option value="$PROJECT_DIR$/first/index.php" />
         <option value="$PROJECT_DIR$/first/settings.php" />
         <option value="$PROJECT_DIR$/first/css/slicknav.css" />
         <option value="$PROJECT_DIR$/first/css/style-mobile.css" />
         <option value="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" />
+        <option value="$PROJECT_DIR$/first/index.php" />
       </list>
     </option>
   </component>
@@ -105,12 +72,12 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="420" />
-    <option name="y" value="61" />
-    <option name="width" value="1400" />
-    <option name="height" value="1019" />
+    <option name="x" value="17" />
+    <option name="y" value="17" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -133,6 +100,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,12 +153,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -211,11 +179,20 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d7388425-21a6-4666-b612-c1dc17f4a7da" name="Default" comment="" />
@@ -226,25 +203,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="420" y="61" width="1400" height="1019" extended-state="1" />
+    <frame x="17" y="17" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -271,28 +248,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.php">
+    <entry file="file://$PROJECT_DIR$/first/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08066429" vertical-offset="0" max-vertical-offset="843">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2839" max-vertical-offset="9316">
+          <caret line="240" column="121" selection-start-line="240" selection-start-column="121" selection-end-line="240" selection-end-column="121" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="80750">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/first/css/style-mobile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.846153" vertical-offset="0" max-vertical-offset="1853">
-          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
-          <folding>
-            <marker date="1426509467828" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426509467828" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426509467828" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426509467828" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426509467828" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426509467828" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426509467828" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426509467828" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="3111" max-vertical-offset="4386">
+          <caret line="210" column="9" selection-start-line="210" selection-start-column="9" selection-end-line="210" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/slicknav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1989">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -306,7 +292,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first/settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="221">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
         </state>
@@ -314,8 +300,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-47.73077" vertical-offset="2839" max-vertical-offset="9316">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2839" max-vertical-offset="9316">
           <caret line="240" column="121" selection-start-line="240" selection-start-column="121" selection-end-line="240" selection-end-column="121" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="80750">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/style-mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3111" max-vertical-offset="4386">
+          <caret line="210" column="9" selection-start-line="210" selection-start-column="9" selection-end-line="210" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/slicknav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1989">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08066429" vertical-offset="0" max-vertical-offset="843">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.846153" vertical-offset="0" max-vertical-offset="1853">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -338,9 +396,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3912543" vertical-offset="19125" max-vertical-offset="80750">
-          <caret line="1145" column="3" selection-start-line="1145" selection-start-column="3" selection-end-line="1145" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="18411" max-vertical-offset="80784">
+          <caret line="1104" column="33" selection-start-line="1104" selection-start-column="28" selection-end-line="1104" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.425" vertical-offset="1615" max-vertical-offset="9316">
+          <caret line="117" column="142" selection-start-line="117" selection-start-column="142" selection-end-line="117" selection-end-column="142" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
